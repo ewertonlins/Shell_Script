@@ -10,6 +10,7 @@ Reiniciar containers específicos
 Ver logs de containers
 Parar ou iniciar o serviço Docker
 Limpar containers, imagens ou volumes não utilizados
+
 ------------------------------------------------------------------------------------------------------
 🧮 menu-util.sh
 
