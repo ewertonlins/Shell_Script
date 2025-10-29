@@ -22,3 +22,18 @@ Verificar espaço em disco
 Consultar uso de memória
 Ver logs recentes do sistema
 Visualizar processos ativos
+
+
+
+
+
+
+
+
+
+
+🧑‍💻 Requisitos
+
+Sistema operacional Linux
+Bash instalado
+Permissões adequadas para execução dos scripts
